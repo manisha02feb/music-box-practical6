@@ -1,0 +1,57 @@
+{
+  "immigrant": {
+    "songUrl": "/ImmigrantSong.mp3",
+    "title": "Immigrant Song - Led Zepplin",
+    "artist": "Led Zepplin"
+  },
+  "numb": {
+    "songUrl": "/Practical-7/songs/Numb.mp3",
+    "title": "Numb - Linkin Park",
+    "artist": "Linkin Park"
+  },
+  "burn": {
+    "songUrl": "/webtechpractical-sem4/Practical-7/songs/BurnTheHouseDown.mp3",
+    "title": "Burn The House Down - AJR",
+    "artist": "AJR"
+  },
+  "american": {
+    "songUrl": "/webtechpractical-sem4/Practical-7/songs/AmericanIdiot.mp3",
+    "title": "American Idiot - Green Day",
+    "artist": "Green Day"
+  },
+  "highway": {
+    "songUrl": "/webtechpractical-sem4/Practical-7/songs/HighwayToHell.mp3",
+    "title": "Highway To Hell - AC/DC",
+    "artist": "AC/DC"
+  },
+  "cranes": {
+    "songUrl": "https://yayinternet.github.io/hw4-music/songs/solange-cranes-kaytranada.mp3",
+    "title": "Cranes in the Sky [KAYTRANADA Remix]",
+    "artist": "Solange"
+  },
+  "timeless": {
+    "songUrl": "https://yayinternet.github.io/hw4-music/songs/james-blake-timeless.mp3",
+    "title": "Timeless",
+    "artist": "James Blake"
+  },
+  "knock": {
+    "songUrl": "https://yayinternet.github.io/hw4-music/songs/knockknock.mp4",
+    "title": "Twice",
+    "artist": "Knock Knock"
+  },
+  "deep": {
+    "songUrl": "https://yayinternet.github.io/hw4-music/songs/janet-jackson-go-deep.mp3",
+    "title": "Go Deep [Alesia Remix]",
+    "artist": "Janet Jackson"
+  },
+  "discretion": {
+    "songUrl": "https://yayinternet.github.io/hw4-music/songs/mitis-innocent-discretion.mp3",
+    "title": "Innocent Discretion",
+    "artist": "MitiS"
+  },
+  "spear": {
+    "songUrl": "https://yayinternet.github.io/hw4-music/songs/toby-fox-spear-of-justice.mp3",
+    "title": "Spear of Justice (ALMOST NO KICKS)",
+    "artist": "Toby Fox"
+  }
+}
